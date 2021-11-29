@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Roboto-c';
+    font-weight: 400;
+    src: url(../fonts/roboto_condensed-r.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto-c';
+    font-weight: 700;
+    src: url(../fonts/roboto_condensed-b.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 500;
+    src: url(../fonts/roboto-m.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    src: url(../fonts/roboto-r.woff) format('woff');
+}
+@font-face {
+    font-family: 'Arial';
+    font-weight: 400;
+    src: url(../fonts/ArialMT.woff) format('woff');
+}
